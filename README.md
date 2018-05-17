@@ -18,6 +18,6 @@ Some memo for Ethernaut CTF: https://ethernaut.zeppelin.solutions
 - [x] 10. Re-entrancy
 - [x] 11. Elevator
 - [x] 12. Privacy
-- [ ] 13. Gatekeeper One
+- [x] 13. Gatekeeper One
 - [ ] 14. Gatekeeper Two
 - [x] 15. Naught Coin
