@@ -21,3 +21,6 @@ Some memo for Ethernaut CTF: https://ethernaut.zeppelin.solutions
 - [x] 13. Gatekeeper One
 - [x] 14. Gatekeeper Two
 - [x] 15. Naught Coin
+- [x] 16. Preservation
+- [x] 17. Locked
+- [x] 18. Recovery
